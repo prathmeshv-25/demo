@@ -1,4 +1,4 @@
 # demo
 This is my first git repository
 <br>
-Author - Prathmesh Vaidya
+Author - Prathmesh Vaidya (leo)
